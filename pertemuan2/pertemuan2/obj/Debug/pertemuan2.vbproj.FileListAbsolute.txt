@@ -1,0 +1,13 @@
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\bin\Debug\pertemuan2.exe.config
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\bin\Debug\pertemuan2.exe
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\bin\Debug\pertemuan2.pdb
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\bin\Debug\pertemuan2.xml
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.vbproj.AssemblyReference.cache
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.Form1.resources
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.Resources.resources
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.vbproj.GenerateResource.cache
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.vbproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.exe
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.xml
+C:\Users\muham\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.pdb
