@@ -1,0 +1,13 @@
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\bin\Debug\pertemuan3.exe.config
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\bin\Debug\pertemuan3.exe
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\bin\Debug\pertemuan3.pdb
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\bin\Debug\pertemuan3.xml
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\obj\Debug\pertemuan3.vbproj.AssemblyReference.cache
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\obj\Debug\pertemuan3.vbproj.SuggestedBindingRedirects.cache
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Form1.resources
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Resources.resources
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\obj\Debug\pertemuan3.vbproj.GenerateResource.cache
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\obj\Debug\pertemuan3.vbproj.CoreCompileInputs.cache
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\obj\Debug\pertemuan3.exe
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\obj\Debug\pertemuan3.xml
+C:\Private\Praktikum-Pemograman-Visual\pertemuan3\pertemuan3\obj\Debug\pertemuan3.pdb
