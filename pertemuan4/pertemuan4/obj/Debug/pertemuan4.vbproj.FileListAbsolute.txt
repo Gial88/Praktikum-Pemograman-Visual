@@ -1,0 +1,15 @@
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe.config
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\bin\Debug\pertemuan4.xml
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\bin\Debug\mysql.data.dll
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.AssemblyReference.cache
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.SuggestedBindingRedirects.cache
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form1.resources
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Resources.resources
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.GenerateResource.cache
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.CoreCompileInputs.cache
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.CopyComplete
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.xml
+C:\Private\Praktikum-Pemograman-Visual\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
