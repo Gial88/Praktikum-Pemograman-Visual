@@ -1,5 +1,5 @@
 ﻿Imports MySql.Data.MySqlClient
-Public Class Form1
+Public Class DataJenis
     Sub Kosong()
         txtKode.Clear()
         txtJenis.Clear()
